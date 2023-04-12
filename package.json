@@ -1,0 +1,12 @@
+{
+  "name": "tesr-my-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs"
+  },
+  "devDependencies": {
+    "vuepress-theme-libra": "^1.0.6"
+  }
+}
